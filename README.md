@@ -42,3 +42,6 @@ Arx[Index] = Radius . cos(Angle); : *Where Arx is the x-Array*
 Ary[Index] = Radius . sin(Angle); : *Where Ary is the y-Array*
 <br>
 Then as told before all the points with their respective indices are displayed on the canvas.
+
+### Some more ScreenShots
+<img src="SpiralImages/Pattern-002368.png" width="350"> <img src="SpiralImages/Pattern-002810.png" width="350">
