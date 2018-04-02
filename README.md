@@ -9,7 +9,8 @@ Main contributors: Tanmay Bishnoi, Shivam Singhal.
 <br><br>
 ## Requirements
 <br>
-The Program(Sketch) uses the Processing IDE which can be downloaded at <a href="https://processing.org/download/">
+The Program(Sketch) uses the Processing IDE which can be downloaded <a href="https://processing.org/download/">
+<u>here</u></a>
 <br>
 ## Quick Overview
 <br><br>
