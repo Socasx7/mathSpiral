@@ -22,15 +22,16 @@ A for loop displays all the points on the Canvas(Window for the Sketch).
 A for loop constantly increases the variable <u>Radius</u> and the variable <u>Angle</u>.
 <br><br>
 The user input is also taken and added to the increase rate.<br>
-Say for example.
+Say for example.<br>
 Angle+=(mouseTerm+incRate): <i>Where MouseTerm is the mouse Cordinate and incRate is a constant term.</i><br>
 Radius+=(mouseTerm+incRate): <i>Where MouseTerm is the mouse Cordinate and incRate is a constant term.</i><br>
 <br>
 <i>Next part may require some Trig prelim</i><br>
 The Radius is multiplied with the cosine of Angle to obtain the x-cord which is then fed to the x-Array.
-<br>
+<br><br>
 Then the Radius is multiplied with the sin of Angle to obtain the y-cord which is then fed to the y-Array.
 <br>For example:<br>
-Arx[Index] = Radius*cos(Angle); : Where Arx is the x-Array;<br>
-Ary[Index] = Radius*sin(Angle); : Where Ary is the y-Array;<br>
+Arx[Index] = Radius . cos(Angle); : *Where Arx is the x-Array<br>*
+Ary[Index] = Radius . sin(Angle); : *Where Ary is the y-Array<br>*
+
 Then as told before all the points with their respective indices are displayed on the canvas.
