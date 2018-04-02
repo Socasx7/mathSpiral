@@ -8,7 +8,6 @@ Main contributors: Tanmay Bishnoi, Shivam Singhal.
 <img src="SpiralImages/Pattern-000553.png" width="350"> <img src="SpiralImages/Pattern-001279.png" width="350">
 <br><br>
 ## Requirements
-<br>
 The Program(Sketch) uses the Processing IDE which can be downloaded <a href="https://processing.org/download/">
 <u>here</u></a>
 <br>
