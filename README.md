@@ -2,9 +2,9 @@
 ### Hello!
 
 #### Main contributors: Tanmay Bishnoi, Shivam Singhal
-<br>
+
 These are some Screenshots of a project I call mathSpiral.
-<br><br>
+<br>
 <img src="SpiralImages/Pattern-000553.png" width="350"> <img src="SpiralImages/Pattern-001279.png" width="350">
 
 ### Requirements
